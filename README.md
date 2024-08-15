@@ -1,4 +1,4 @@
-# Memory-Puzzle-Game
+# Memory---Puzzle---Game
 
 A fun game where users match pairs of cards within a time limit.
 
