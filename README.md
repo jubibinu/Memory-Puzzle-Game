@@ -2,15 +2,14 @@
 
 A fun game where users match pairs of cards within a time limit.
 
-Features
+# Features
 
-Multiple Difficulty Levels: Easy, medium, and hard.
-Countdown Timer: Adds urgency.
-Score Tracking: Time and attempts.
-High-Score Leaderboard: Compete for top scores.
-User-Friendly Interface: Easy to navigate.
-Sound Effects and Animations: Enhance gameplay.
-Usage
+-Multiple Difficulty Levels: Easy, medium, and hard.
+-Countdown Timer: Adds urgency.
+-Score Tracking: Time and attempts.
+-High-Score Leaderboard: Compete for top scores.
+-User-Friendly Interface: Easy to navigate.
+
+# Usage
 Run the game:
-
 npm start
