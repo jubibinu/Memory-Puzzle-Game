@@ -16,6 +16,9 @@ A fun game where users match pairs of cards within a time limit.
 
 # Usage
 
-npm start
+Run the game:
+   ```sh
+   npm start
+
 
 
