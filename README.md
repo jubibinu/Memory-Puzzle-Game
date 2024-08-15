@@ -11,5 +11,6 @@ A fun game where users match pairs of cards within a time limit.
 -User-Friendly Interface: Easy to navigate.
 
 # Usage
-Run the game:
+
 npm start
+
