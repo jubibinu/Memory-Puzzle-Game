@@ -12,5 +12,16 @@ A fun game where users match pairs of cards within a time limit.
 
 # Usage
 
+Start the Game: Run the game using:
+
+bash
+Copy code
+
 npm start
+
+Select Difficulty: Choose from easy, medium, or hard levels.
+
+Play: Click on cards to reveal them and match pairs within the time limit.
+
+Win or Lose: The game ends when all pairs are matched or the time runs out.
 
